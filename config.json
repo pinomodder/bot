@@ -1,13 +1,13 @@
 { 
-  "ChatOwner": "6281331184338@s.whatsapp.net",
-  "ownerNumber": "6281331184338@s.whatsapp.net",
-  "botName": "breaksekBOT",
-  "ownerName": "breaksek",
+  "ChatOwner": "628891753410@s.whatsapp.net",
+  "ownerNumber": "628891753410@s.whatsapp.net",
+  "botName": "pinoBOT",
+  "ownerName": "Pino",
   "sessionName": "session",
-  "footer": "© breaksekBOT 2023",
+  "footer": "© pinoBOT 2023",
   "api_lolkey": "SadTeams",
   "group":{
-  "judul": "breaksekBOT",
-  "link": "https://chat.whatsapp.com/E35EpFW6PrR8C8Sg7stTN1"
+  "judul": "pinoBOT",
+  "link": "https://chat.whatsapp.com/"
   }
 }
